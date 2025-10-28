@@ -12,7 +12,7 @@ Incluye una interfaz moderna, para una experiencia visual agradable.
 ---
 ##  Instalación y Ejecución Paso a Paso
 
-# 1. Clonar o descargar el repositorio
+### 1. Clonar o descargar el repositorio
 
 Clona este proyecto o descarga el archivo `.zip` desde GitHub:
 
@@ -20,11 +20,11 @@ Clona este proyecto o descarga el archivo `.zip` desde GitHub:
 git clone https://github.com/usuario/algoritmo-kpaths.git
 cd algoritmo-kpaths`
 
-# 2.
+### 2.
 Luego ejecuta el archivo:
 ` main.py `
 
-# 3.
+### 3.
 Va a aparecer la interfaz que va a tener los pasos en una esquina para realizar los procedimientos.
 En la interfaz se tienen los botones y se utilizan en el siguente orden:
 - Generar nueva matriz 
