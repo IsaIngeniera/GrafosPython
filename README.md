@@ -6,13 +6,13 @@ El programa permite **generar grafos aleatorios**, **visualizar sus conexiones**
 Incluye una interfaz moderna, para una experiencia visual agradable.
 
 ## Hecho por: 
--Isabella Ocampo S.
+- Isabella Ocampo S.
 - Maria Laura Tafur
 
 ---
 ##  Instalación y Ejecución Paso a Paso
 
-### 1️⃣ Clonar o descargar el repositorio
+### 1️. Clonar o descargar el repositorio
 
 Clona este proyecto o descarga el archivo `.zip` desde GitHub:
 
@@ -20,5 +20,7 @@ Clona este proyecto o descarga el archivo `.zip` desde GitHub:
 git clone https://github.com/usuario/algoritmo-kpaths.git
 cd algoritmo-kpaths`
 
-Luego Ejecuta el archivo ` main.py `
+## 2.
+Luego ejecuta el archivo:
+` main.py `
 
