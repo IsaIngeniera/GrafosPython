@@ -20,12 +20,12 @@ Clona este proyecto o descarga el archivo `.zip` desde GitHub:
 git clone https://github.com/usuario/algoritmo-kpaths.git
 cd algoritmo-kpaths`
 
-### 2.
+### 2. Ejecución del código
 Luego ejecuta el archivo:
 ` main.py `
 
-### 3.
-Va a aparecer la interfaz que va a tener los pasos en una esquina para realizar los procedimientos.
+### 3. Pasos a seguir dentro del programa
+Aparecerá la interfaz que va a tener los pasos de ejecución en la esquina izquierda para realizar los procedimientos.
 En la interfaz se tienen los botones y se utilizan en el siguente orden:
 - Generar nueva matriz 
 - Dibujar grafo
