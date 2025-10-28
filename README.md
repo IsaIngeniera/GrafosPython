@@ -24,3 +24,9 @@ cd algoritmo-kpaths`
 Luego ejecuta el archivo:
 ` main.py `
 
+## 3.
+Va a aparecer la interfaz que va a tener los pasos en una esquina para realizar los procedimientos.
+En la interfaz se tienen los botones y se utilizan en el siguente orden:
+- Generar nueva matriz 
+- Dibujar grafo
+- Calcular K-Paths
