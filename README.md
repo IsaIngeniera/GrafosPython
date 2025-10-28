@@ -1,5 +1,5 @@
 # GrafosPython
-# Algoritmo de K-Paths (EAFIT)
+## Algoritmo de K-Paths 
 
 Aplicación desarrollada en **Python con PyQt5** que implementa el **algoritmo de K-caminos más cortos (K=1, K=2, K=3)** usando una matriz de adyacencia.  
 El programa permite **generar grafos aleatorios**, **visualizar sus conexiones** y **calcular los K caminos más cortos** entre todos los nodos mediante un enfoque similar al **algoritmo de Floyd–Warshall**.  
